@@ -8,41 +8,28 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyannafis@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shyan23)
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<br/>
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Elegant Divider"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎓 About Me
 
-```python
-class NafisShyan:
-    def __init__(self):
-        self.username = "shyan23"
-        self.name = "Nafis Shyan"
-        self.location = "Bangladesh 🇧🇩"
-        self.education = "Computer Science | Final Year"
-        self.interests = [
-            "AI for Medical Imaging 🏥",
-            "Vision Transformers 🔬",
-            "Machine Learning 🤖",
-            "Backend Development ⚙️"
-        ]
-        
-    def get_current_work(self):
-        return {
-            "research": "Vision Transformers for 3D Medical Imaging",
-            "focus": ["CT Scan Analysis", "Model Optimization", "Lightweight AI"],
-            "tech_stack": ["PyTorch", "Python", "Java Springboot", "React"]
-        }
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! ✨")
+**Final-year Computer Science student specializing in Artificial Intelligence and Medical Imaging**
 
-me = NafisShyan()
-me.say_hi()
-```
+I am deeply committed to advancing healthcare through intelligent systems. My research focuses on developing efficient, accurate AI models for medical image analysis—bridging the gap between cutting-edge deep learning and practical clinical applications.
+
+**Current Research**  
+Vision Transformers for 3D Medical Imaging | CT Scan Analysis | Model Optimization for Resource-Constrained Environments
+
+**Core Expertise**  
+Machine Learning • Deep Learning • Medical Image Processing • Backend Architecture
+
+**Technical Foundation**  
+PyTorch, TensorFlow • Python, Java • Spring Boot • Computer Vision
 
 ---
 
@@ -73,9 +60,8 @@ me.say_hi()
   - Model Fine-tuning & Optimization
   
 - **Deployment**
-  - CPU-Efficient Inference (Ryzen, 16GB RAM)
-  - Cloud AI APIs Integration
-  - Java Springboot + ML Microservices
+  - DigitalOcean
+  - Github(vercel) 
 
 </td>
 </tr>
@@ -233,35 +219,18 @@ Open_To:
 
 ---
 
-## 📫 Let's Connect!
+## 📬 Professional Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nafisshyan)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shyannafis@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/shyan23)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nafisshyan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shyannafis@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shyan23)
 
-### 💬 Open for Collaborations
-
-```
-📧 Email: shyannafis@gmail.com
-🔗 LinkedIn: linkedin.com/in/nafisshyan
-🌐 Location: Dhaka, Bangladesh 🇧🇩
-```
+**Open to collaborations in AI research, medical imaging projects, and graduate study opportunities**
 
 </div>
 
 ---
 
-<div align="center">
-
-### ✨ "Building the Future of AI in Healthcare, One Model at a Time" ✨
-
-![Profile Views](https://komarev.com/ghpvc/?username=shyan23&color=brightgreen&style=for-the-badge)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-
-</div>
-
----
 
